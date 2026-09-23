@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Super Admin",
+    "role": "ADMIN",
+    "scope": "NASIONAL",
+    "email": "admin@xlsmart.co.id"
+  },
+  {
+    "id": "2",
+    "name": "Bali Nusra Manager",
+    "role": "REGION",
+    "scope": "BALI NUSRA",
+    "email": "region.balinusra@xlsmart.co.id"
+  },
+  {
+    "id": "3",
+    "name": "Bangkalan Specialist",
+    "role": "CITY",
+    "scope": "KAB. BANGKALAN",
+    "email": "city.bangkalan@xlsmart.co.id"
+  },
+  {
+    "id": "4",
+    "name": "Harpa Promoter",
+    "role": "PROMOTER",
+    "scope": "HARPA",
+    "email": "HARPA"
+  }
+]
